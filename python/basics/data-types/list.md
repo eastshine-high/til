@@ -1,6 +1,6 @@
 # List
 
-리스트는 **순서를 가지는 객체들의 집합**으로, 파이썬 자료형들 중에서 가장 유용하게 활용된다. 리스트는 [시퀀스 자료형](https://github.com/eastshine-high/til/tree/main/python/sequence-types)이면서 변경 가능(mutable) 자료형**이**다. 따라서 [시퀀스 자료형](https://github.com/eastshine-high/til/tree/main/python/sequence-types)의 특성에 더하여 **가변 시퀀스 타입의 특성(Mutable Sequence Types)**을 가진다. 데이터의 크기를  동적으로 그리고 임의로 조절하거나, 내용을 치환하여 변경할 수 있다.
+리스트는 **순서를 가지는 객체들의 집합**으로, 파이썬 자료형들 중에서 가장 유용하게 활용된다. 리스트는 [시퀀스 자료형](https://github.com/eastshine-high/til/blob/main/python/basics/data-types/sequence-types.md)이면서 변경 가능(mutable) 자료형**이**다. 따라서 [시퀀스 자료형](https://github.com/eastshine-high/til/blob/main/python/basics/data-types/sequence-types.md)의 특성에 더하여 **가변 시퀀스 타입의 특성(Mutable Sequence Types)**을 가진다. 데이터의 크기를  동적으로 그리고 임의로 조절하거나, 내용을 치환하여 변경할 수 있다.
 
 ## 파이썬 리스트의 특징
 

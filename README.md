@@ -66,6 +66,32 @@
 
     - [Spread operator](https://github.com/eastshine-high/til/blob/main/javascript/modern/spread-operator.md)
 
+## [Python](https://github.com/eastshine-high/til/tree/main/python)
+
+- [Basics(기본 문법)](https://github.com/eastshine-high/til/tree/main/python/basics)
+
+    - [Python 시작하기](https://github.com/eastshine-high/til/blob/main/python/basics/python-start.md)
+
+    - [들여쓰기(Indentation)](https://github.com/eastshine-high/til/blob/main/python/basics/indentation.md)
+
+    - [입출력](https://github.com/eastshine-high/til/blob/main/python/basics/input-output.md)
+
+    - [제어문(Control Statement)](https://github.com/eastshine-high/til/blob/main/python/basics/control-statement.md)
+
+    - [자료형(Data Types)](https://github.com/eastshine-high/til/tree/main/python/basics/data-types)
+
+        - [시퀀스 자료형(Sequence Types)](https://github.com/eastshine-high/til/blob/main/python/basics/data-types/sequence-types.md)
+
+            - [List](https://github.com/eastshine-high/til/blob/main/python/basics/data-types/list.md)
+
+        - [Dictionary](https://github.com/eastshine-high/til/blob/main/python/basics/data-types/dictionary.md)
+
+- [Libraries(라이브러리)](https://github.com/eastshine-high/til/tree/main/python/libraries)
+
+    - [데이터 검증(Data Validation)](https://github.com/eastshine-high/til/tree/main/python/libraries/data-validation)
+
+        - [Pydantic](https://github.com/eastshine-high/til/blob/main/python/libraries/data-validation/pydantic.md)
+
 ## Java - Specification
 
 - [JPA](https://github.com/eastshine-high/til/tree/main/java/specification/jpa-hibernate)
