@@ -299,3 +299,7 @@
 - [인코딩-디코딩-유니코드](https://github.com/eastshine-high/til/blob/main/computer-basic/encoding-decoding-unicode.md)
 
 - [실수형의 저장방식](https://github.com/eastshine-high/til/blob/main/computer-basic/floating-point.md)
+
+## [Claude Code](https://github.com/eastshine-high/til/tree/main/claude-code)
+
+- [권한 설정으로 에이전트의 위험한 작업 막기](https://github.com/eastshine-high/til/blob/main/claude-code/permissions.md)
