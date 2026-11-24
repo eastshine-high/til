@@ -302,6 +302,8 @@
 
 - [Keycloak — OAuth 2.0 · OIDC 를 구현한 인가 서버 다루기](https://github.com/eastshine-high/til/blob/main/oauth/keycloak.md)
 
+- [MCP 인가(Authorization) — MCP 서버를 OAuth 로 보호하기](https://github.com/eastshine-high/til/blob/main/oauth/mcp-authorization.md)
+
 ## 컴퓨터 기초
 
 - [진법](https://github.com/eastshine-high/til/blob/main/computer-basic/base.md)
