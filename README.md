@@ -292,6 +292,10 @@
 
     - [비대칭키 암호](https://github.com/eastshine-high/til/blob/main/information-security/encryption/asymmetric-cryptography.md)
 
+## [OAuth](https://github.com/eastshine-high/til/tree/main/oauth)
+
+- [OAuth 2.0 기초 — 비밀번호를 주지 않고 권한을 위임하기](https://github.com/eastshine-high/til/blob/main/oauth/oauth-2.0.md)
+
 ## 컴퓨터 기초
 
 - [진법](https://github.com/eastshine-high/til/blob/main/computer-basic/base.md)
